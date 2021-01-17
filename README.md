@@ -1,7 +1,7 @@
 # DolDamGil
 ## Logo
 
-<img src = "spidycoder-3-master/full_image.png" width = "300" height = "300">
+<img src = "spidycoder-3-master/full_image.png" width = "300" height = "300"><img src = "spidycoder-3-master/icon 2.png" width = "300" height = "300">
 
 ## 들어가기 전에
 - 스포츠 클라이밍 용어

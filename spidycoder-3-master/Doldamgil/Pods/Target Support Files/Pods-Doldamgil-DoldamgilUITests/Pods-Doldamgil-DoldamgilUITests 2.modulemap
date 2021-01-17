@@ -1,0 +1,6 @@
+framework module Pods_Doldamgil_DoldamgilUITests {
+  umbrella header "Pods-Doldamgil-DoldamgilUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

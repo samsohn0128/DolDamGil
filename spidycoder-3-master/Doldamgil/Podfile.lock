@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.3.0)
+  - AWSCore (2.18.0)
+  - AWSS3 (2.18.0):
+    - AWSCore (= 2.18.0)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - FSCalendar (2.8.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - AWSS3
+  - Charts
+  - FSCalendar
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AWSCore
+    - AWSS3
+    - Charts
+    - FSCalendar
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  AWSCore: e8cc7fd06efa211328942cc7c9f6dddbe889a115
+  AWSS3: 31b24341477f8eaae01542900e2253e908eed1ee
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: e3eb4f81be7386ae056277835f5eaddf85800b3a
+
+COCOAPODS: 1.9.3

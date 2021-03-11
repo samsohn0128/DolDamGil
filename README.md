@@ -37,7 +37,7 @@
   - Deeplearning
   - Embadded System
 ### 팀원 : 양경모
-  - Mobile
+  - Mobile (iOS)
 ### 팀원 : 김건우
   - Server
   - Embadded System
